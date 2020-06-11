@@ -26,9 +26,9 @@ namespace BLL
         #endregion
 
         /// <summary>
-        /// 
+        /// 大数据接口
         /// </summary>
-        /// <param name="StateTime"></param>
+        /// <param name="StateTime"></param>   
         /// <param name="EndTime"></param>
         /// <param name="SPTXT">医院编号</param>
         /// <param name="K"></param>
