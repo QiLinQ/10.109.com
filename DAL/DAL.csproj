@@ -45,7 +45,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BigDataDAL.cs" />
+    <Compile Include="BookRegister.cs" />
+    <Compile Include="CheckDAL.cs" />
+    <Compile Include="DoubleDiagnose.cs" />
+    <Compile Include="HealthRecordDAL.cs" />
+    <Compile Include="HospitalLiveDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PublicHygieneDAL.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
